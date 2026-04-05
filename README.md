@@ -114,9 +114,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyadyasser228&show_icons=true&theme=radical" alt="Zeyad's github stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadyasser228&theme=radical" alt="Zeyad's streak stats" />
