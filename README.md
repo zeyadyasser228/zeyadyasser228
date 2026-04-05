@@ -58,8 +58,8 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeyadyasser228&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadyasser228&theme=tokyonight&hide_border=true" /> -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeyadyasser228&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadyasser228&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
