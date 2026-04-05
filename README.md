@@ -36,6 +36,9 @@
 
 <h3 align="left">🛠 Tech Stack</h3>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,php,js,html,css,mysql,docker,kubernetes,aws,git,linux" />
+</p>
 
 ---
 
